@@ -13,6 +13,7 @@
 - CP: IMPORTS.*.MAIN.TYPES.bool TYPES.Bool
 - CP: IMPORTS.*.MAIN.TYPES.double TYPES.double
 - CP: IMPORTS.*.MAIN.TYPES.float TYPES.float
+- CP: IMPORTS.*.MAIN.TYPES.CompoMe::Posix::DateTime TYPES.CompoMe::Posix::DateTime 
 
 - CP: IMPORTS.*.MAIN.TYPES.CompoMe::String TYPES.CompoMe::String
 
